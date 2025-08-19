@@ -23,7 +23,6 @@ Watch a live demo of the StockSage Playground in action. Click the image below t
 
 [![StockSage Demo Video](https://drive.google.com/uc?export=view&id=1bW8Mak_9MJdmMaHerhTb8Z_5pX9N0T6-)](https://drive.google.com/file/d/1bPNq32rFBOsU4PKrWw8FLhFw_Gr-2el_/view?usp=sharing)
 
-***Note:*** *To make the demo link work, you must replace `YOUR_GOOGLE_DRIVE_SHARE_LINK_HERE` with the actual shareable link to your `demo.mp4` file. You can also replace the image URL with a screenshot from your video.*
 
 ---
 ## 🛠️ Getting Started
@@ -70,13 +69,10 @@ You need to provide your API keys for the services used in this project.
 2.  Copy and paste the following content into the `.env` file and replace the placeholder text with your actual API keys.
 
 ```env
-# Get from [https://phidata.com/](https://phidata.com/)
 PHI_API_KEY="ph-..."
 
-# Get from [https://console.groq.com/keys](https://console.groq.com/keys)
 GROQ_API_KEY="gsk_..."
 
-# Get from [https://platform.openai.com/api-keys](https://platform.openai.com/api-keys)
 OPENAI_API_KEY="sk-..."
 ```
 ---
